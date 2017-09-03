@@ -1,2 +1,10 @@
-# Haldo Binturian
-This is a work in progress!  If you want more info, contact Anne!
+ <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Haldo Binturians</title>
+  </head>
+  <body>
+  This is a work in progress!
+  </body>
+</html>
