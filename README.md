@@ -5,9 +5,12 @@
    <link rel="stylesheet" href="stylesheet.css" type="text/css">
    <h1>Haldo Binturains!</h1>
   </head>
-  <body>
-  This is a work in progress!  Enjoy this song in the meantime.
+   <body class=big>
     
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/nPAKFZ9hLbo?rel=0" frameborder="0" allowfullscreen></iframe>
+    <div>
+     <img src="https://images.cooltext.com/5009394.png" width=300 height="75" alt="Binturia" />
+     </div>
+
+    <script src="index.js"></script>
   </body>
 </html>
