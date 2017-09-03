@@ -1,1 +1,6 @@
-h1 {color:green;}
+.big{
+  background-image: url("https://www.binghamton.edu/nature-preserve/images/scenic/frosty-pond.jpg");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: absolute;
+}
